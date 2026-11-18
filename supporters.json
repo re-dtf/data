@@ -1,6 +1,15 @@
 {
-	"updatedAt": "2026-11-11",
-	"description": "Мы очень благодарня всем, кто поддерживает развитие reDTF",
+	"updatedAt": "2026-11-18",
+	"description": "Мы очень благодарны всем, кто поддерживает развитие reDTF",
 	"supporters": [
+		{
+			"name": "Bremsberg",
+			"amount": "386 ₽",
+			"comment": "Просто за то что делаешь ДЦП чуточку лучше. "
+		},
+		{
+			"name": "SNWDRJBLMLT",
+			"amount": "300 ₽"
+		}
 	]
 }
